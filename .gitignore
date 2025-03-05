@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Android_ASTC/ShootingRangeVR-arm64.apk
+Android_ASTC/Uninstall_ShootingRangeVR-arm64.bat
+Android_ASTC/Install_ShootingRangeVR-arm64.bat
