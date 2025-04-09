@@ -76,3 +76,4 @@ Android_ASTC/ShootingRangeVR-arm64.apk
 Android_ASTC/Uninstall_ShootingRangeVR-arm64.bat
 Android_ASTC/Install_ShootingRangeVR-arm64.bat
 *.umap
+Content/StarterContent/Architecture/Floor_400x400.uasset
