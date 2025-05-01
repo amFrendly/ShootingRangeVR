@@ -78,3 +78,5 @@ Android_ASTC/Install_ShootingRangeVR-arm64.bat
 *.umap
 Content/StarterContent/Architecture/Floor_400x400.uasset
 Content/StarterContent/Architecture/Floor_400x400.uasset
+Content/StarterContent/Architecture/Floor_400x400.uasset
+Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
